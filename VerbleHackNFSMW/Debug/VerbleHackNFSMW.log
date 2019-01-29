@@ -1,0 +1,38 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
+  cursor.cpp
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\cursor.cpp(27): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\cursor.cpp(28): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+  functions.cpp
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\functions.cpp(25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note:  см. объявление "strcpy"
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\functions.cpp(36): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\functions.cpp(47): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note:  см. объявление "strcpy"
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\functions.cpp(822): warning C4244: =: преобразование "UINT" в "float", возможна потеря данных
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\functions.cpp(823): warning C4244: =: преобразование "UINT" в "float", возможна потеря данных
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\functions.cpp(824): warning C4244: =: преобразование "UINT" в "float", возможна потеря данных
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\functions.cpp(842): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\functions.cpp(839): warning C4102: shotobject_jmp: неиспользованная метка
+  verblecore.cpp
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\verblecore.cpp(20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note:  см. объявление "fopen"
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\verblecore.cpp(25): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\verblecore.cpp(34): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\time.h(506): note:  см. объявление "localtime"
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\verblecore.cpp(36): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\verblecore.cpp(130): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\verblecore.cpp(187): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\verblecore.cpp(214): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\verblecore.cpp(230): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\verblecore.cpp(249): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note:  см. объявление "fopen"
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\verblecore.cpp(251): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\verblecore.cpp(266): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+  Создание кода...
+  VerbleHackNFSMW.vcxproj -> D:\Need for Speed Most Wanted - Black Edition\scripts\VerbleHackNFSMW.asi

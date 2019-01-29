@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="menu">
+      <UniqueIdentifier>{f5d205ee-f36d-4265-b687-198c86291359}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="messagebox">
+      <UniqueIdentifier>{e97ce36d-5b83-4842-8fd5-542a12ead6c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dllmain">
+      <UniqueIdentifier>{bdb0b91b-041b-4c7b-a0a6-cb6acde922a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core">
+      <UniqueIdentifier>{d520de84-3356-44ff-910c-9e26c852d01f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core\Executable files">
+      <UniqueIdentifier>{d392e216-d4fc-44fc-8e15-3db9454ec572}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core\Header files">
+      <UniqueIdentifier>{931b4f73-643a-401f-8d70-8340fe86642c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="menu\Executable files">
+      <UniqueIdentifier>{87d74c99-252b-4ac4-99d3-e4c5ace12c70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="menu\Header files">
+      <UniqueIdentifier>{4b3b67a0-dc6a-497d-a0a2-675e90fba12a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="messagebox.cpp">
+      <Filter>messagebox</Filter>
+    </ClCompile>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>dllmain</Filter>
+    </ClCompile>
+    <ClCompile Include="functions.cpp">
+      <Filter>dllmain</Filter>
+    </ClCompile>
+    <ClCompile Include="core.cpp">
+      <Filter>core\Executable files</Filter>
+    </ClCompile>
+    <ClCompile Include="font.cpp">
+      <Filter>core\Executable files</Filter>
+    </ClCompile>
+    <ClCompile Include="d3d9hook.cpp">
+      <Filter>core\Executable files</Filter>
+    </ClCompile>
+    <ClCompile Include="cursor.cpp">
+      <Filter>core\Executable files</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>menu\Executable files</Filter>
+    </ClCompile>
+    <ClCompile Include="errorreport.cpp">
+      <Filter>core\Executable files</Filter>
+    </ClCompile>
+    <ClCompile Include="myd3dx.cpp">
+      <Filter>core\Executable files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="messagebox.h">
+      <Filter>messagebox</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="dllmain.h">
+      <Filter>dllmain</Filter>
+    </ClInclude>
+    <ClInclude Include="MostWanted.h">
+      <Filter>dllmain</Filter>
+    </ClInclude>
+    <ClInclude Include="core.h">
+      <Filter>core\Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>menu\Header files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="VerbleHackNFSMW.rc" />
+  </ItemGroup>
+</Project>

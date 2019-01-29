@@ -1,0 +1,25 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
+  functions.cpp
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\menu.h(128): warning C4244: инициализация: преобразование "float" в "const DWORD", возможна потеря данных
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\functions.cpp(14): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note:  см. объявление "strcpy"
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\functions.cpp(1114): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\functions.cpp(1111): warning C4102: shotobject_jmp: неиспользованная метка
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\functions.cpp(1530): warning C4244: аргумент: преобразование "float" в "UINT", возможна потеря данных
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\functions.cpp(1531): warning C4244: аргумент: преобразование "float" в "UINT", возможна потеря данных
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\functions.cpp(1533): warning C4244: аргумент: преобразование "float" в "UINT", возможна потеря данных
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\functions.cpp(1534): warning C4244: аргумент: преобразование "float" в "UINT", возможна потеря данных
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\functions.cpp(1535): warning C4244: аргумент: преобразование "float" в "UINT", возможна потеря данных
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\functions.cpp(1536): warning C4244: аргумент: преобразование "float" в "UINT", возможна потеря данных
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\functions.cpp(1537): warning C4244: аргумент: преобразование "float" в "UINT", возможна потеря данных
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\functions.cpp(1538): warning C4244: аргумент: преобразование "float" в "UINT", возможна потеря данных
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\functions.cpp(1539): warning C4244: аргумент: преобразование "float" в "UINT", возможна потеря данных
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\functions.cpp(1540): warning C4244: аргумент: преобразование "float" в "UINT", возможна потеря данных
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\functions.cpp(1558): warning C4838: преобразование из "double" в "LONG" требует сужающего преобразования
+c:\users\cheater\desktop\verblehacknfsmw\verblehacknfsmw\functions.cpp(1558): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+  Создание кода
+  2 of 442 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  VerbleHackNFSMW.vcxproj -> D:\Need for Speed Most Wanted\SCRIPTS\VerbleHackNFSMW.asi
